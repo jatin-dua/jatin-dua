@@ -18,10 +18,13 @@
 
 
 <!-- Profile Views and Count -->
+<!-- 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=jatin-dua&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
  <img src="https://img.shields.io/github/followers/jatin-dua?label=Followers&style=social" alt="followers-count"> 
 </p>
+
+-->
 
 <img width="1000vh" style="align:center" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
@@ -130,10 +133,12 @@
 ---
 
 <!--  Activity Graph -->
+  
  <h2 align="left">⚡Activity Graph</h2>
-  <a><img alt="Jatin Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jatin-dua&theme=react-dark&hide_border=true" /></a>    
+  <a><img alt="Jatin Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jatin-dua&theme=react-dark&hide_border=true" /></a>    
   
 ---
+
 <!-- 
 🔗 Links 🔗
 - Github & Languages Stats Cards:
