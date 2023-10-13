@@ -1,8 +1,7 @@
-<h1 align="center" style="color: #44AEFB;">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/jatin-dua">Jatin Dua 💻</a>
-</h1> 
+<h1 align="center" style="color: #44AEFB;">Hi there 👋, I'm <a href="https://www.linkedin.com/in/jatin-dua">Jatin Dua 💻</a></h1>
+<h3 align="center">A passionate Computer Science Student from India &#127470;&#127475</h3>
 
-<br>
+<br />
 
 <!-- Moving Text -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
